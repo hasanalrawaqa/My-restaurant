@@ -4,5 +4,4 @@
 ## wireframe
 ## wire frame image
 
-![wireframe](https://drive.google.com/file/d/1rsmVnhafL-zXiRvNVjbpCQnmiMIj--Oa/view?usp=share_link)
-
+![Alt text](resturant-wireframe_page-0001.png)
