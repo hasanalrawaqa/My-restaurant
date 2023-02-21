@@ -4,6 +4,5 @@
 ## wireframe
 ## wire frame image
 
-![wireframe](C:\Users\dell\Downloads\resturant-wireframe_page-0001.png)
-
+![wireframe](https://drive.google.com/file/d/1rsmVnhafL-zXiRvNVjbpCQnmiMIj--Oa/view?usp=share_link)
 
